@@ -6,7 +6,7 @@ define('CONSUMER_KEY', 'your consumer key');
 define('CONSUMER_SECRET', 'your consumer secret');
 
 define('FROGOS_URL', 'https://fdp-demo.frogos.net');
-define('CALLBACK_URL', '{your domain}/demo/config_oauth.php');
+define('CALLBACK_URL', '{your domain}/myapp/config_oauth.php');
 
 /**
  * Example API request using ohmyAuth
